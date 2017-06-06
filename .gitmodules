@@ -1,0 +1,3 @@
+[submodule "9x.WebServices.Examples"]
+	path = 9x.WebServices.Examples
+	url = https://github.com/git4dbe/9x.WebServices.Examples
